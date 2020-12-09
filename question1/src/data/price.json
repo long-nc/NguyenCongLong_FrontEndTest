@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Dưới 1 triệu",
+    "value": "duoi_1_trieu",
+    "key": "duoi_1_trieu"
+  },
+  {
+    "text": "1 triệu - 2 triệu",
+    "value": "1_2_trieu",
+    "key": "1_2_trieu"
+  },
+  {
+    "text": "2 triệu - 3 triệu",
+    "value": "2_3_trieu",
+    "key": "2_3_trieu"
+  },
+  {
+    "text": "3 triệu - 5 triệu",
+    "value": "3_5_trieu",
+    "key": "3_5_trieu"
+  },
+  {
+    "text": "5 triệu - 7 triệu",
+    "value": "5_7_trieu",
+    "key": "5_7_trieu"
+  },
+  {
+    "text": "7 triệu - 10 triệu",
+    "value": "7_10_trieu",
+    "key": "7_10_trieu"
+  },
+  {
+    "text": "10 triệu - 15 triệu",
+    "value": "10_15_trieu",
+    "key": "10_15_trieu"
+  },
+  {
+    "text": "Trên 15 triệu",
+    "value": "tren_15_trieu",
+    "key": "tren_15_trieu"
+  }
+]
